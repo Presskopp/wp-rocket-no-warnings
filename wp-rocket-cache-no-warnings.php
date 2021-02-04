@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WP Rocket | No Warnings
  * Description: Stops WP Rocket from showing warnings if advanced-cache.php and / or .htaccess aren't writable.
- * Plugin URI:  https://github.com/Presskopp/wp-rocket-helper
+ * Plugin URI:  https://github.com/Presskopp/wp-rocket-no-warnings
  * Author:      WP Rocket Support Team
  * Author URI:  http://wp-rocket.me/
  * License:     GNU General Public License v2 or later
